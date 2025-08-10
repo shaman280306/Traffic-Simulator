@@ -1,48 +1,8 @@
- Hi, I'm Shaman Sharma  
+Project Title: Traffic Simulator – AI-Driven Real-Time Traffic Optimization Platform
 
- Innovator | 20+ Patents | AI & C++ Developer | Researcher  
+Description:
+Developed an advanced C++11-based real-time traffic simulation platform integrating algorithmic precision, multi-threaded processing, and adaptive routing strategies. The system models a dynamic urban environment with features including weather-influenced travel times, AI-assisted route recommendations, emergency vehicle prioritization, and automated incident generation. It employs Dijkstra’s algorithm with performance-optimized data structures to calculate shortest paths, factoring in congestion levels, signal delays, and road accessibility based on vehicle type.
 
- *B.Tech (CSE – AI & ML)* @ Chandigarh University  
- Gharuan, Punjab, India  
+The platform operates with a modular architecture, separating core simulation logic, visualization, and AI modules, enabling scalability and easy integration of new features. A dedicated weather update thread ensures environmental changes are reflected instantly in routing calculations, while an incident monitoring system dynamically adjusts road statuses in response to simulated accidents, construction, or adverse conditions.
 
----
-
-##  About Me  
-- Passionate about *AI, C++, and real-world problem solving*.  
--  Filed *20+ patents* in innovation & technology.  
--  Built advanced projects like a *C++ Traffic Simulator* with real-time routing, weather impact, and AI route optimization.  
--  Presented research at *national & international conferences*.  
--  Achievements in *debates, athletics, and hackathons*.  
-
----
-
-##  Featured Projects  
-
-###  [Traffic Simulator](https://github.com/shaman280306/Traffic-Simulator)  
-C++ real-time traffic simulation with:  
-- Smart routing & Dijkstra’s algorithm  
-- Multithreaded weather updates  
-- Emergency vehicle routing  
-- Eco-statistics & AI analysis  
-
----
-
-##  Tech Stack  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-##  GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaman280306&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaman280306&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaman-sharma-476129330)  
-[![Email](https://img.shields.io/badge/Email-shamansharma1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamansharma1@gmail.com)  
-
+Designed with production-grade coding standards, the project demonstrates expertise in data structures, algorithms, object-oriented design, and concurrency. Its architecture supports future integration with live datasets such as OpenStreetMap and real-time traffic APIs, paving the way for real-world deployment in smart city traffic management systems.
